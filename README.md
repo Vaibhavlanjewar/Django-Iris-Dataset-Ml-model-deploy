@@ -6,5 +6,6 @@ Run coomands
 >>python manage.py runserver
 
 See interface 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/58c29253-06a1-49fe-b6cd-a87d50fda1d0)
+
 
